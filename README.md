@@ -17,9 +17,12 @@
 - [Programming Language Foundations in Agda](https://agda-zh.github.io/PLFA-zh/)用Agda证明助理编写的规范同时描述了编程语言以及该语言编写的程序自身
 - [大宗师](http://www.dazongshi.top/) 自己折腾底层轮子的人的博客
 - [Candycat Blog](http://candycat1992.github.io/)图形学博客
-- [TouchDesigner中文社区](http://www.touchdesigner.co)
+- [TouchDesigner中文社区](http://www.touchdesigner.co)互动艺术
+### 书籍
+
 ## 娱乐
 ### 社区/论坛
 - [机核网](https://www.gcores.com) 游戏文化为主的电台以及社区
 - [NGA](https://bbs.nga.cn/) 主要看一些资源整合帖
+- [beeple](https://www.beeple-crap.com/)著名的VJ资源分享网站
 最后更新:2019/8/24
