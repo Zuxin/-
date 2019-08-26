@@ -15,9 +15,11 @@
 - [游戏编程模式](https://gpp.tkchu.me/) gameprogrammingpatterns的中文版，主要讲游戏编程相关的架构和设计模式等，不只可以用在游戏上
 - [The Book of Shaders](https://thebookofshaders.com/)讲Shader的一本书 有中文版
 - [Programming Language Foundations in Agda](https://agda-zh.github.io/PLFA-zh/)用Agda证明助理编写的规范同时描述了编程语言以及该语言编写的程序自身
-- [大宗师](http://www.dazongshi.top/) 自己折腾底层轮子的人的博客
+//- [大宗师](http://www.dazongshi.top/) 自己折腾底层轮子的人的博客
 - [Candycat Blog](http://candycat1992.github.io/)图形学博客
 - [TouchDesigner中文社区](http://www.touchdesigner.co)互动艺术
+- [Matthew Ragan](https://matthewragan.com/) Media Maker and Interactive System Designer
+- [Fmod Studio 中文教程](https://www.bilibili.com/video/av20993465)
 ### 书籍
 
 ## 娱乐
@@ -25,4 +27,6 @@
 - [机核网](https://www.gcores.com) 游戏文化为主的电台以及社区
 - [NGA](https://bbs.nga.cn/) 主要看一些资源整合帖
 - [beeple](https://www.beeple-crap.com/)著名的VJ资源分享网站
-最后更新:2019/8/24
+- [Free ToolFk For Developers](https://www.toolfk.com) 实用工具
+- [艺术社区](https://www.artstation.com)
+最后更新:2019/8/26
